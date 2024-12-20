@@ -9,15 +9,19 @@ In this project, we will conduct a comparative analysis between highlighted prod
 The dataset consists of the company's sales data from August to October 2024, containing over 150,000 rows of information.
 
 # Data Analysis
-All processes, from data extraction to analysis, can be seen in [insert reference here].
+All processes, from data extraction to analysis, can be seen in [here](https://github.com/ramlanapriyansyah/Highlighted-Product-Analysis/blob/main/Highlighted%20Product%20Analysis.ipynb).
 ## a. Revenue Analysis
 The table below shows the results of the Revenue Analysis.
+![image](https://github.com/user-attachments/assets/099306ec-0a8e-4705-a062-6f89d2cfd685)
+
 
 It reveals that the contribution of the highlighted product increased from 3.38% in August to 10.77% in September, before slightly decreasing to 9.25% in October.
 In terms of month-to-month growth, the highlighted product revenue shows some fluctuation. It experienced a 262% increase from August to September, followed by a -10.11% decrease from September to October.
 
 ## b. Quantity Analysis
 The results of the Quantity Analysis are shown in the table below.
+![image](https://github.com/user-attachments/assets/985c86fd-4c54-433a-aa95-ad4867422d6b)
+
 
 Similar to the Revenue Analysis, the contribution of the highlighted product in terms of quantity increased from August to September (2.71% to 6.76%), but then slightly decreased in October (5.75%). 
 The same trend is observed in the month-to-month growth. The highlighted product experienced a 208% increase from August to September, followed by a 12.48% decrease from September to October.
